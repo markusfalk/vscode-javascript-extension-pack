@@ -2,14 +2,36 @@
     "name": "javascript-development-extension-pack",
     "displayName": "javascript-development-extension-pack",
     "description": "JavaScript Development Extension Pack",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.36.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/markusfalk/vscode-javascript-extension-pack"
+    },
+    "publisher": "MarkusFalk",
+    "icon": "logo-javascript.png",
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
-        "publisher.extensionName"
+    "extensionPack": [
+        "coenraads.bracket-pair-colorizer",
+        "cssho.vscode-svgviewer",
+        "davidanson.vscode-markdownlint",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "editorconfig.editorconfig",
+        "eg2.vscode-npm-script",
+        "esbenp.prettier-vscode",
+        "formulahendry.auto-rename",
+        "joelday.docthis",
+        "johnpapa.vscode-peacock",
+        "mhutchie.git-graph",
+        "mkaufman.htmlhint",
+        "ms-vsliveshare.vsliveshare-pack",
+        "msjsdiag.debugger-for-chrome",
+        "naumovs.color-highlight",
+        "wayou.vscode-todo-highlight"
     ]
 }
