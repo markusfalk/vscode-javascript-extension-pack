@@ -1,6 +1,8 @@
-# Angular Development Extension Pack
+# JavaScript Development Extension Pack
 
 This exension pack is a currated list of all the extension you may need for JavaScript development.
+
+It is part of a larger series of extension packs. That you can choose from for your type of project or preference.
 
 It does not include any theming as this should be your personal preference.
 

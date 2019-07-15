@@ -1,8 +1,8 @@
 {
     "name": "javascript-development-extension-pack",
-    "displayName": "javascript-development-extension-pack",
-    "description": "JavaScript Development Extension Pack",
-    "version": "1.0.0",
+    "displayName": "JavaScript Development Extension Pack",
+    "description": "This exension pack is a currated list of all the extension you may need for JavaScript development.",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.36.0"
     },
