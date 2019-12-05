@@ -6,12 +6,17 @@ It is part of a larger series of extension packs. That you can choose from for y
 
 ![](https://raw.githubusercontent.com/markusfalk/vscode-javascript-extension-pack/development/javascript-development-extension-pack/vscode-front-end-development-extension-packs.png?raw=true)
 
-
 It does not include any theming as this should be your personal preference.
 
 I explicitly avoid adding snippets as there are so many and I don't want to force you to learn one or the other.
 
 ## Whats in the Box
+
+### Development
+
+* [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+* [CSS Peak](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+* [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 
 ### Workflow
 
