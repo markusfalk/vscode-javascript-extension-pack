@@ -2,7 +2,7 @@
   "name": "javascript-development-extension-pack",
   "displayName": "JavaScript Development Extension Pack",
   "description": "This exension pack is a currated list of all the extension you may need for JavaScript development.",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "scripts": {
     "vsce": "vsce",
     "vsce:package": "vsce package",
@@ -42,6 +42,7 @@
     "naumovs.color-highlight",
     "pranaygp.vscode-css-peek",
     "wayou.vscode-todo-highlight",
-    "zignd.html-css-class-completion"
+    "zignd.html-css-class-completion",
+    "juliensanmartin.vscode-depcheck"
   ]
 }

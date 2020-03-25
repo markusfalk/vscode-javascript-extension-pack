@@ -44,6 +44,7 @@ I explicitly avoid adding snippets as there are so many and I don't want to forc
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=coenraads.bracket-pair-colorizer)
 * [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+* [Depcheck](https://marketplace.visualstudio.com/items?itemName=juliensanmartin.vscode-depcheck)
 * [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 * [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
 * [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
