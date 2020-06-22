@@ -35,6 +35,8 @@
     "hookyqr.beautify",
     "joelday.docthis",
     "johnpapa.vscode-peacock",
+    "juliensanmartin.vscode-depcheck",
+    "kisstkondoros.vscode-codemetrics",
     "mhutchie.git-graph",
     "mkaufman.htmlhint",
     "ms-vsliveshare.vsliveshare-pack",
@@ -42,7 +44,6 @@
     "naumovs.color-highlight",
     "pranaygp.vscode-css-peek",
     "wayou.vscode-todo-highlight",
-    "zignd.html-css-class-completion",
-    "juliensanmartin.vscode-depcheck"
+    "zignd.html-css-class-completion"
   ]
 }
